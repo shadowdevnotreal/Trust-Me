@@ -16,6 +16,8 @@ Trusted Installer Monitor for Malware
 <a href="https://www.buymeacoffee.com/notarealdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
 ## CODE has not been compiled yet = LOOKING FOR TESTERS when I am done. Videos coming. ##
+## DEMO TEST:
+https://user-images.githubusercontent.com/43219706/214512313-58d67023-c89a-45ed-b01b-e5f6f14b6da4.mp4
 
 
 ## Basic Description
