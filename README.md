@@ -6,7 +6,7 @@ Trusted Installer Monitor for Malware
 </p>
 
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/43219706/214514153-e1e476a3-95f4-4903-8521-b9c58eed5f26.jpg"> 
+<img width="240" alt="trust me (Small)" src="https://user-images.githubusercontent.com/43219706/214979831-7f01724f-ebf2-47ef-b771-b8a5215ce8ad.png">
 </p>
 
 <p align="center">
